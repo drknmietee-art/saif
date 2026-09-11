@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite both the software and the paper."
+title: "humanoid-asr: speaker-independent speech-command recognition for humanoid robot control"
+version: "1.0.0"
+license: MIT
+authors:
+  - family-names: Shrivastava
+    given-names: Sarika
+  - family-names: Banerjee
+    given-names: Somendra
+  - family-names: Srivastava
+    given-names: Mayank
+  - family-names: Khalid
+    given-names: Saifullah
+  - family-names: Nishad
+    given-names: Dinesh Kumar
+preferred-citation:
+  type: article
+  title: "Speaker-Independent Artificial Neural Network-Based Speech Command Recognition for Humanoid Robot Control: A Reproducible Laboratory Proof of Concept"
+  year: 2026
+  authors:
+    - family-names: Shrivastava
+      given-names: Sarika
+    - family-names: Banerjee
+      given-names: Somendra
+    - family-names: Srivastava
+      given-names: Mayank
+    - family-names: Khalid
+      given-names: Saifullah
+    - family-names: Nishad
+      given-names: Dinesh Kumar
